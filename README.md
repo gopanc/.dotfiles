@@ -2,6 +2,8 @@
 
 ## tmux
 
+![tmux preview](assets/tmux-preview.png)
+
 ### Dependências
 
 - [tmux](https://github.com/tmux/tmux) >= 3.6
